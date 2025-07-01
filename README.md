@@ -31,16 +31,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadJurajj&show_icons=true&theme=react&hide_title=false" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJurajj&theme=react" alt="streak" />
-</p>
-
----
 
 ### 📬 Let's Connect
 
