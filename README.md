@@ -1,42 +1,55 @@
 <h1 align="center">Hi 👋, I'm Muhammad Juraij P</h1>
-<h3 align="center">A passionate Frontend Developer from UAE</h3>
+<h3 align="center">Frontend Developer | Passionate about building modern web interfaces</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juraijp&label=Profile%20views&color=0e75b6&style=flat" alt="juraijp" />
-</p>
-
-- 🔭 I’m currently working on **SmartRook** – an online educational platform  
-- 🌱 I’m learning **Next.js and TypeScript**  
-- 👯 I’m looking to collaborate on **React-based open source projects**  
-- 💬 Ask me about **React, JavaScript, Node.js, MongoDB**  
-- 📫 Reach me at **yourmail@example.com**  
-- ⚡ Fun fact: I love clean UI and pixel-perfect designs  
-
-### 🛠️ Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juraijp&show_icons=true&locale=en" alt="juraijp" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juraijp" alt="juraijp" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juraijp&show_icons=true&locale=en&layout=compact" alt="juraijp" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadJurajj&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadJurajj" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+🚀 I'm a Frontend Developer with **1+ year of hands-on experience** in building user-friendly, responsive, and interactive web applications. I specialize in **React**, and love translating UI/UX designs into code that brings websites to life.
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- [Portfolio](https://yourportfolio.com)
+---
+
+### 🧰 Tech Stack
+
+- ⚛️ React, JavaScript (ES6+), HTML5, CSS3
+- 🖌️ Bootstrap, Tailwind CSS
+- 🌐 REST APIs, Axios
+- 🌍 Git, GitHub, VS Code
+- 🧪 Familiar with Node.js, Express, MongoDB
+
+---
+
+### 📌 Projects
+
+- **SmartRook** – Online education platform built with React
+- **TripTracer** – Travel log web app using Express & PostgreSQL
+- **FoodZone** – Full-stack food delivery app with cart, Stripe demo, admin panel
+
+> See more projects in my repositories 📁
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadJurajj&show_icons=true&theme=react&hide_title=false" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJurajj&theme=react" alt="streak" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+- 📧 Email: youremail@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)  
+- 🌐 [Portfolio](https://yourportfolio.com)
+
+---
+
+### 💡 Fun Fact
+
+I love crafting **clean UI**, writing **reusable components**, and exploring new tools in the JavaScript ecosystem!
