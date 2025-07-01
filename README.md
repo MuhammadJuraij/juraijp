@@ -44,9 +44,9 @@
 
 ### 📬 Let's Connect
 
-- 📧 Email: youremail@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)  
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 📧 Email: muhammadjuraijp@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-juraij-723b2229a/)  
+- 🌐 [Portfolio](https://portfolio-khaki-six-80.vercel.app/)
 
 ---
 
